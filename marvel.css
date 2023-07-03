@@ -1,0 +1,39 @@
+@media screen and (max-width:1200px) {
+    #x{
+        
+    }
+    
+}
+@media screen and (min-width:1200px) {
+    #x{
+        margin-left: 20px
+    
+}
+
+}
+@media screen and (min-width:1500px) {
+    #x{
+        margin-left: 40px
+    
+}
+
+}
+@media screen and (min-width:1800px) {
+    #x{
+        margin-left: 50px
+       
+    }
+    }
+    @media screen and (max-width:800px) {
+        #c{
+            
+            columns: 10%;
+            
+
+        }
+        #plz{
+            justify-content: center;
+        }
+        }
+        
+        
